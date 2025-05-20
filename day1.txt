@@ -1,0 +1,4 @@
+ClI is the new GUI for programmers
+pwd prints the current working directory
+mkdir creates a folder
+touch creates a file
